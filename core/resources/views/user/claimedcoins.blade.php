@@ -1,0 +1,3 @@
+@extends('claimedcoinslayout')
+
+@section('content')
